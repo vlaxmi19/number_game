@@ -1,4 +1,5 @@
 Creating a Number Game in Java, where the user attempts to guess a randomly generated number between 1 and 100. The game includes several features to enhance user experience:
+
 Random Number Generation: The program generates a random number within the specified range (1 to 100) for the user to guess.
 User Input: The user is prompted to enter their guess, and the program validates the input to ensure it is a number within the allowed range.
 Feedback Mechanism: After each guess, the program provides feedback indicating whether the guess is too high, too low, or correct.
