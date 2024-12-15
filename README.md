@@ -7,3 +7,6 @@ Attempt Limitation: The user has a limited number of attempts (10) to guess the 
 Multiple Rounds: After each round, the user is given the option to play again, allowing for multiple rounds of play.
 Scoring System: The program keeps track of the user's score based on the number of rounds played and the number of successful guesses, providing a sense of achievement.
 Overall, this task combines elements of randomness, user interaction, and basic game mechanics to create an engaging and fun experience for the player.
+
+TECHNOLOGY USED
+Java Programming Langugae
